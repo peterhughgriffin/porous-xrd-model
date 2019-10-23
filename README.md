@@ -30,6 +30,7 @@ The model is designed to plot .xrdml experimental files from Panalytical X-ray d
 ## Authors
 
 **Peter Griffin** [Bitbucket](https://bitbucket.org/phgriffin/)
+
 **Fabrice Oehler **
 
 ## Acknowledgements
