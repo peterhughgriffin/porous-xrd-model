@@ -1,6 +1,6 @@
 # XRD Simulator for Porous DBRs
 
-This code presents a user friendly method for simulating the XRD response of a porous GaN DBR.
+This code presents a user friendly method for simulating the XRD response of a porous GaN DBR in Matlab.
 
 The basis of the XRD simulation uses the kinematic theory and some understanding for how this model works can be gained from this paper by Vickers et al.: https://aip.scitation.org/doi/abs/10.1063/1.1587251
 
