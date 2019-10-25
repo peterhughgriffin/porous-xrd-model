@@ -15,11 +15,9 @@ T_Por = period*T_Rat;
 T_GaN = period-T_Por;
 T_Temp = 1000;
 
-% Params
-repeat_R = 10;
 
 %% Set boundaries for sliders
-RatMin = 0.2;    
+RatMin = 0;    
 RatMax = 0.5;
 
 PorMin = 0.0;
