@@ -1,8 +1,12 @@
 # XRD Simulator for Porous DBRs
 
-This code presents a user friendly method for simulating the XRD response of a porous GaN DBR in Matlab.
+This code presents a user friendly method for simulating the XRD response of a porous GaN DBR in Matlab. The model was developed in conjunction with the following research paper and this provides more detail on its application and limitations:
 
-The basis of the XRD simulation uses the kinematic theory and some understanding for how this model works can be gained from this paper by Vickers et al.: https://aip.scitation.org/doi/abs/10.1063/1.1587251
+Structural characterization of porous GaN distributed Bragg reflectors using x-ray diffraction;
+P. H. Griffin, M. Frentrup,  T. Zhu, M. E. Vickers, and  R. A. Oliver; Journal of Applied Physics **126**, 213109 (2019);
+https://doi.org/10.1063/1.5134143
+
+The basis of the XRD simulation uses the kinematic theory and some understanding for how this model works can be gained from this paper by Vickers *et al.*: https://aip.scitation.org/doi/abs/10.1063/1.1587251
 
 This modelling approach can be applied to modelling any XRD response, but has been adapted here specifically for periodic porous GaN structures. 
 
@@ -16,9 +20,6 @@ A porous DBR has a structure consisting of a non-porous layer and a porous layer
 
 This code provides sliders that can be used to tune these parameters in order to fit the simulation to the experimental data.
 
-The model was developed in conjunction with the following research paper:
-
-Structural characterization of porous GaN distributed Bragg reflectors using x-ray diffraction; P. H. Griffin, M. Frentrup,  T. Zhu, M. E. Vickers, and  R. A. Oliver; Journal of Applied Physics **126**, 213109 (2019); https://doi.org/10.1063/1.5134143
 
 
 ## Contents
