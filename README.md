@@ -2,7 +2,7 @@
 
 This code presents a user friendly method for simulating the XRD response of a porous GaN DBR in Matlab. The model was developed in conjunction with the following research paper and this provides more detail on its application and limitations:
 
-Structural characterization of porous GaN distributed Bragg reflectors using x-ray diffraction;
+*Structural characterization of porous GaN distributed Bragg reflectors using x-ray diffraction*;
 P. H. Griffin, M. Frentrup,  T. Zhu, M. E. Vickers, and  R. A. Oliver; Journal of Applied Physics **126**, 213109 (2019);
 https://doi.org/10.1063/1.5134143
 
