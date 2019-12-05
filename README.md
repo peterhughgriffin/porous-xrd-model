@@ -16,7 +16,9 @@ A porous DBR has a structure consisting of a non-porous layer and a porous layer
 
 This code provides sliders that can be used to tune these parameters in order to fit the simulation to the experimental data.
 
-Further detail on how the modelling works will be available in a forthcoming paper, which will be linked to here when published.
+The model was developed in conjunction with the following research paper:
+
+Structural characterization of porous GaN distributed Bragg reflectors using x-ray diffraction; P. H. Griffin, M. Frentrup,  T. Zhu, M. E. Vickers, and  R. A. Oliver; Journal of Applied Physics **126**, 213109 (2019); https://doi.org/10.1063/1.5134143
 
 
 ## Contents
